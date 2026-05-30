@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+.env
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
+
+# Generated plots (keep folder via .gitkeep)
+results/*.png
