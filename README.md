@@ -75,7 +75,7 @@ Key parameters: \(\gamma = 0.9\), \(\epsilon_{\min} = 0.01\), \(R_{\text{goal}} 
 ## Project structure
 
 ```
-AI_Project/
+Mobile_robot/
 ├── run.py                      # CLI entry point (use this to run experiments)
 ├── requirements.txt
 ├── README.md
